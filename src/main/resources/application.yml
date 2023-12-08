@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: samx
+      host: xmongo
+      port: 2717
