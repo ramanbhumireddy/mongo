@@ -2,5 +2,5 @@ spring:
   data:
     mongodb:
       database: samx
-      host: xmongo
-      port: 2717
+      host: mymongox
+      port: 27017

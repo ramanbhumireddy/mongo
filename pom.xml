@@ -60,7 +60,7 @@
 				</configuration>
 			</plugin>
 		</plugins> 
-		<finalName>mangoapp</finalName>
+		<finalName>mongoapp</finalName>
 	</build>
 
 </project>
